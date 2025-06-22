@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [centos9-sysadmin-docs](https://github.com/RafiNashirudin/centos9-sysadmin-docs)
+ 🔭 I’m currently working on [centos-lamp-installer](https://github.com/RafiNashirudin/centos-lamp-installer)
  
  🌱 I’m currently learning **DevOps Engineer**
 
